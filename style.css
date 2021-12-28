@@ -1,0 +1,83 @@
+
+.options input{
+    margin-left: 600px;
+}
+.options label{
+    margin-left: 600px;
+}
+.navbar{
+    height: 50px;
+    background-color: rgb(3, 3, 10);
+}
+.navbar h1{
+    color: darkgray;
+    margin: 0px 0px 0px 19px;
+    
+}
+.navbar div{
+    padding-top: 11px;
+    width: 50%;
+    float: left;
+}
+.select{
+    text-align:center;
+    margin: 0px;
+    padding-left:  30px;
+    
+
+}
+.select li{
+    display: inline-block;
+    font-size: 20px;
+}
+.select a{
+    text-decoration: none;
+    color: rgb(199, 219, 19);
+    margin-right: 100px;
+
+
+}
+div .regis{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
+.R_heading{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div .register{
+    background-color: rgba(190, 107, 107, 0.5);
+    width: 100%;
+    font-size: 18px;
+    border-radius: 10px;
+    border: 1px soid rgba(255, 255, 255, 0.3);
+    box-shadow: 2px,2px, 15px, rgba(0,0,0,0.3);
+    color: #000;
+}
+.register input{
+    margin-left: 600px;
+}
+.register label{
+    margin-left: 600px;
+}
+.heading{
+    text-align:center;
+    margin-bottom: 30px;
+}
+.user label{
+    margin-left: 600px;
+}
+.user input{
+    margin-left: 600px;
+}
+.pass label{
+    margin-left: 600px;
+}
+.pass input{
+    margin-left: 600px;
+}
+.submit input{
+    margin-left: 660px;
+    margin-top: 10px;
+}
